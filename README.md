@@ -1,3 +1,3 @@
 ## Projects
-- [Project 1](https://github.com/byLilita/Website_timeline_project/projects/1)
-- [Project 2](https://github.com/byLilita/Website_timeline_project/projects/2)
+- [[Client name] - Website project plan (template)](https://github.com/users/byLilita/projects/3)
+- [Web Development project Pages timeline](https://github.com/users/byLilita/projects/7)
